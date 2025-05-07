@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hi 👋, I am a non-student and a self-taught programmer with a keen interest in the dynamic world of programming, 
-and I have recently delved into the exciting domain of Go (Golang). 
+Hi, I'm Ayan Ahmad Ansari
+A self-taught backend developer specializing in Go. Passionate about building scalable APIs and contributing to open-source projects. 
 My journey in technology has been marked by a relentless pursuit of knowledge, making me a passionate learner and coder.
 
 
